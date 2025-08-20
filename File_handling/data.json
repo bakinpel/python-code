@@ -1,0 +1,7 @@
+{
+  "Fruits": ["Apple", "Banana", "Orange"],
+  "Animals": ["Donkey", "Cat", "Elephant"],
+  "Country": "Nigeria",
+  "Year": 2025,
+  "IsSunny": true
+}
